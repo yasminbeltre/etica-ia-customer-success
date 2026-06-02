@@ -1,0 +1,9 @@
+INFORME DE ETICA Y SESGO EN IA
+Yasmin Beltre — INDOTEL / BID / CYMETRIA 2026
+
+Sesgos identificados:
+- Brecha salarial de genero: 5.5%
+- Brecha contratacion en Tecnologia: 8.3 puntos
+- Brecha contratacion por edad (22-30 vs 51-60): 5.6 puntos
+
+Ver notebook completo para analisis detallado.
