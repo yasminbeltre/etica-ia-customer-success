@@ -1,4 +1,5 @@
 # 🔍 Análisis de Sesgo y Ética en IA en Procesos de Contratación
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yasminbeltre/etica-ia-customer-success/blob/main/analisis_sesgo_contratacion_IA.ipynb)
 
 > Proyecto desarrollado como parte del Módulo 7 — Ética y Sesgo en IA  
 > Programa INDOTEL / BID / CYMETRIA 2026  
