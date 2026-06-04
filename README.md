@@ -1,9 +1,15 @@
 # 🔍 Análisis de Sesgo y Ética en IA en Procesos de Contratación
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yasminbeltre/etica-ia-customer-success/blob/main/analisis_sesgo_contratacion_IA.ipynb)
 
-> Proyecto desarrollado como parte del Módulo 7 — Ética y Sesgo en IA  
-> Programa INDOTEL / BID / CYMETRIA 2026  
-> **Autora:** Yasmin Beltre | Customer Success & Operations Specialist  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yasminbeltre/etica-ia-customer-success/blob/main/analisis_sesgo_contratacion_IA.ipynb)
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange?style=flat&logo=googlecolab)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?style=flat&logo=pandas)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-green?style=flat)
+![Estado](https://img.shields.io/badge/Estado-Completado-brightgreen)
+
+> Proyecto desarrollado como parte del Módulo 7 — Ética y Sesgo en IA
+> Programa INDOTEL / BID / CYMETRIA 2026
+> **Autora:** Yasmin Beltre | Customer Success & Operations Specialist
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasmin%20Beltre-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yasminbeltre)
 
 ---
@@ -25,17 +31,14 @@ Proyecto de análisis de datos para identificar patrones de discriminación pote
 
 ## 🛠️ Tecnologías utilizadas
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange?style=flat&logo=googlecolab)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?style=flat&logo=pandas)
-![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-green?style=flat)
-
-- **Python 3**
-- **Pandas**
-- **NumPy**
-- **Matplotlib**
-- **Seaborn**
-- **Google Colab**
+| Herramienta | Uso |
+|---|---|
+| Python 3 | Lenguaje principal |
+| Google Colab | Entorno de ejecución |
+| Pandas | Manipulación y análisis de datos |
+| NumPy | Cálculos numéricos |
+| Matplotlib | Visualización de datos |
+| Seaborn | Visualización estadística |
 
 ---
 
@@ -72,7 +75,8 @@ Los resultados evidencian que los conjuntos de datos utilizados para entrenar al
 ├── analisis_sesgo_contratacion_IA.ipynb
 ├── sesgo_genero.png
 ├── sesgo_edad.png
-└── informe_etica_sesgo_ia.txt
+├── informe_etica_sesgo_ia.txt
+└── README.md
 ```
 
 ---
@@ -100,8 +104,9 @@ Este análisis demuestra la importancia de implementar procesos de auditoría, m
 
 **Yasmin Beltre** — Customer Success & Operations Specialist con 20+ años optimizando operaciones y procesos. Especializada en CRM Management, Process Optimization y Digital Transformation con foco en AI in Business.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yasminbeltre)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yasminbeltre) [![GitHub](https://img.shields.io/badge/GitHub-yasminbeltre-black?style=flat&logo=github)](https://github.com/yasminbeltre)
 
 ---
 
 *Proyecto desarrollado como parte del curso de Inteligencia Artificial — INDOTEL / BID / CYMETRIA 2026*
+
