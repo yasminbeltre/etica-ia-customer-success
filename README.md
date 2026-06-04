@@ -1,5 +1,4 @@
 # 🔍 Análisis de Sesgo y Ética en IA en Procesos de Contratación
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yasminbeltre/etica-ia-customer-success/blob/main/analisis_sesgo_contratacion_IA.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange?style=flat&logo=googlecolab)
